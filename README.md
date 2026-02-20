@@ -2,7 +2,7 @@
 # 👋 Olá, eu sou Maurício
 
 💻 Desenvolvedor focado em criação de sites modernos  
- Buscando viver da internet  
+ 
  Belo Horizonte - MG  
 
 ---
